@@ -8,7 +8,7 @@ export default <IState>{
  *      listItem:{
  *          id: 设置成时间戳 new Date().getTime : number;
  *          context: string;
- *          status: Finished Doing Willdo -> 枚举
+ *          status: Finished Doing Willdd -> 枚举
  *      }
  * 
  * type 类型 interface 接口 对于对象用interface定义类型
